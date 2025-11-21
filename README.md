@@ -1,5 +1,6 @@
 # Este Proyecto Cuenta Mi Experiencia en Programación
 - Esta pagina fue diseñada para el programa becalos en el curso de frontend
+- Tecnologias Empleadas (HTML, Git y Github)
 
 ## Mi Trayectoria
 
